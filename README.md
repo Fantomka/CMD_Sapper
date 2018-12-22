@@ -1,5 +1,5 @@
 # CMD_Sapper
-
+[![Build Status](https://travis-ci.org/Fantomka/CMD_Sapper.svg?branch=master)](https://travis-ci.org/Fantomka/CMD_Sapper)
 Group project with my classmates. There are a lot of bugs in this program, but that was my first game on C-language.
 
 Tutorial:
